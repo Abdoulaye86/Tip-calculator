@@ -1,0 +1,18 @@
+body {
+  background-image: url('tips.jpeg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
+h1 {
+  font-family: fantasy;
+  font-style: oblique;
+  font-size: 46x;
+  color: beige black;
+  background-color: bisque;
+
+}
+
+
